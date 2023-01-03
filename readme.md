@@ -1,4 +1,4 @@
-# BECN_EndOfCourse_Project
+# BECN_EndOfCourseProject
 
 ## Starting the code
 
